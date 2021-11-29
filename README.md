@@ -6,5 +6,5 @@ This code quiz would be used for companies with new hires to test their knowledg
 ![image](https://user-images.githubusercontent.com/92446866/143798926-abd909fc-0a21-4411-b3fc-101eba5b989a.png)
 
 
-## The link to my github repository :
+## The link to my github repository : https://github.com/amuldrow/Code-Quiz
 ## The link to my deployed application: https://amuldrow.github.io/Code-Quiz/
