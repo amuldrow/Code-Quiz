@@ -27,8 +27,12 @@
     color: var(black);
     margin: 5px 0 20px;
     float: right;
-    font-size: 2.2rem;
-    font-weight: bolder;
+    font-size: 2.5rem;
+    font-weight: bold;
+    position: relative;
+    right: 60px;
+    bottom: 25px;
+   
 
   }
   .page-content {
@@ -44,11 +48,17 @@
     margin-bottom: 5px;
     margin-top: 0;
     font-size: 4.5rem;
+    position: relative;
+    bottom:55px;
+    left: 300px;
+    align-content: center;
   }   
   
   .page-content p {
       font-size: 15px;
       font-weight: bolder;
+      align-content: center;
+      flex: auto;
   }
 
   .btn {
@@ -62,6 +72,21 @@
     position: relative;
     top: -3px;
     box-shadow: 0 3px var(--grey);
+  }
+
+  .btn-start{
+    outline: none;
+    border: none;
+    display: inline-block;
+    padding: 10px 15px;
+    background: var(--primary);
+    font-size: 2.2rem;
+    border-radius: 12px;
+    position: relative;
+    top: 100px;
+    right: 300px;
+    box-shadow: 0 3px var(--grey);
+    
   }
   
   footer {
