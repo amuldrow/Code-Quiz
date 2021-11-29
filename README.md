@@ -7,4 +7,4 @@ This code quiz would be used for companies with new hires to test their knowledg
 
 
 ## The link to my github repository :
-## The link to my deployed application:
+## The link to my deployed application: https://amuldrow.github.io/Code-Quiz/
